@@ -1,1 +1,1 @@
-Run the Simulate_satellite.m
+Run the simulate_satellite.m
